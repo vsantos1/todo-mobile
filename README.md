@@ -1,2 +1,2 @@
 # todo-mobile
-Todo mobile built with React native 
+This is a simple TODO frontend @typescript-react-styled-components
